@@ -3,7 +3,7 @@ I learned a lot of stuff related to data science skills.
 ## Each sprints consists of :
 - Intro to data science
 - Google sheets 
-- Database (SQL)
+- Database (SQLite)
 - R Programming
 - Data Transformation (R programming )
 - Data Visualization (R programming, google sheets)
